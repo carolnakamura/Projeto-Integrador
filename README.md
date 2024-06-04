@@ -4,9 +4,18 @@ Esta aplicação foi desenvolvida como parte da disciplina Projeto Integrador do
 
 No repositório do github se encontram os códigos...
 
-O projeto foi feito usando as linguagens html, Css.
-Foi também utilizado nesse projeto os programas XAMPP e o Mysql
+### Tecnologias utilizadas
+O projeto foi feito utilizando as linguagens html, Css.
+Foi também utilizados nesse projeto os programas XAMPP e o Mysql
 
 
 O link para acesso ao vídeo: 
 https://youtu.be/PfDnXTTInmw?si=tSJbUeovMR_tkfv7
+
+
+### Grupo 43:
+Carolina Kazumi Nakamura
+Felipe Santos Manzano
+Gabriel Lazarini Ramos
+Hilton Penteado Da Silva
+Luiz Henrique Borges Silva
