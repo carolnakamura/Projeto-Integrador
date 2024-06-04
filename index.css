@@ -1,0 +1,45 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  background-color: #FFA500; /* Fundo laranja */
+}
+.notification-bar {
+  background-color: #808080; /* Barra de notificações cinza */
+  color: white;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 14px;
+}
+.icon {
+  display: inline-block;
+  margin-right: 10px;
+}
+.content {
+  text-align: center;
+  width: 100%;
+  height: 125%; /* Altura da imagem definida para 125% da altura da tela */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: -25%; /* Ajuste para começar após a barra de notificação */
+}
+.app-image {
+  max-height: 50%;
+  width: auto;
+}
+.enter-button {
+  background-color: #00008B; /* Botão de entrar na cor azul escuro */
+  color: white;
+  padding: 10px 50px;
+  border: none;
+  border-radius: 10px; /* Bordas arredondadas */
+  margin-top: 20px;
+}
+.register-link {
+  color: white; /* Link de cadastro em branco */
+  text-decoration: none;
+  margin-top: 15px;
+}
