@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"> <!-- Adicionando FontAwesome -->
+<style>
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  .notification-bar {
+    background-color: grey; /* Cor cinza para a barra de notificações */
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .app-container {
+    background-color: orange; /* Fundo laranja para o conteúdo principal */
+    padding: 20px;
+    text-align: center;
+  }
+  .enter-button {
+    background-color: darkblue; /* Botão de entrar azul escuro */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  .sign-up-link {
+    color: white; /* Link para cadastro em branco */
+    text-decoration: none;
+    display: block;
+    margin-top: 20px;
+    opacity: 0.7; /* Link levemente transparente */
+  }
+  .app-image {
+    width: 100%;
+    height: center;
+  }
+</style>
+</head>
+<body>
+
+<div class="notification-bar">
+  <span>15:31</span> <!-- Ícone de horário -->
+  <i class="fas fa-wifi"></i> <!-- Ícone de wifi -->
+  <i class="fas fa-signal"></i> <!-- Ícone de rede -->
+  <i class="fas fa-battery-full"></i> <!-- Ícone de bateria -->
+</div>
+
+<div class="app-container">
+  <!-- Inserir aqui o gráfico do mosquito com o sinal de proibição -->
+  <img src="https://th.bing.com/th/id/R.8eae2095ee20c17b73d994f0c2e195b9?rik=8JrRMSmYgwShaQ&riu=http%3a%2f%2fwww.patriciafinotti.com.br%2fwp-content%2fuploads%2f2016%2f02%2fCampanha-contra-o-Aedes.jpg&ehk=5pE9Fj3oA8ioy0iz04MtadtytTQuOmo7WmAjLmyuF%2fI%3d&risl=&pid=ImgRaw&r=0" alt="Imagem da campanha" class="app-image">
+  <h1 style="color: white;">Dengue Finish</h1> <!-- Nome do aplicativo em branco -->
+  <button class="enter-button">Entrar</button>
+  <a href="#" class="sign-up-link">Não tem cadastro? Faça agora!</a>
+</div>
+
+</body>
+</html>
