@@ -13,7 +13,7 @@ O link para acesso ao vídeo:
 https://youtu.be/PfDnXTTInmw?si=tSJbUeovMR_tkfv7
 
 ### Trabalho escrito
-No trabalho escrito
+PI -IV DESENVOVIMENTO DE SISTEMAS ORIENTADOS A DISPOSITIVOS MÓVEIS E BASEADOS NA WEB.PDF
 
 ### Grupo 43:
 Carolina Kazumi Nakamura
