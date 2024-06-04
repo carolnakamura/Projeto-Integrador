@@ -12,6 +12,8 @@ Foi também utilizados nesse projeto os programas XAMPP e o Mysql
 O link para acesso ao vídeo: 
 https://youtu.be/PfDnXTTInmw?si=tSJbUeovMR_tkfv7
 
+### Trabalho escrito
+No trabalho escrito
 
 ### Grupo 43:
 Carolina Kazumi Nakamura
@@ -19,3 +21,4 @@ Felipe Santos Manzano
 Gabriel Lazarini Ramos
 Hilton Penteado Da Silva
 Luiz Henrique Borges Silva
+
